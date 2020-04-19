@@ -5,4 +5,10 @@
 下次调用可以直接使用  allstation.txt
 
 
-2. 从百度api获取每个站点的名字
+2. 从百度api获取每个站点的经纬度
+
+
+3. Connection关联处理
+    connection.ipynb  可以获取从A到B的线路
+
+
